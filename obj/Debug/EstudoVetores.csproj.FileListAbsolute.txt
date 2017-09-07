@@ -1,0 +1,6 @@
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\EstudoVetores\bin\Debug\EstudoVetores.exe
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\EstudoVetores\bin\Debug\EstudoVetores.pdb
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\EstudoVetores\obj\Debug\EstudoVetores.csprojResolveAssemblyReference.cache
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\EstudoVetores\obj\Debug\EstudoVetores.csproj.CoreCompileInputs.cache
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\EstudoVetores\obj\Debug\EstudoVetores.exe
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\EstudoVetores\obj\Debug\EstudoVetores.pdb
